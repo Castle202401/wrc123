@@ -2,7 +2,7 @@
  * 机器人智能操作系统
  */
 //% weight=100 color=#ff6b35 icon="\uf544"
-namespace RobotController {
+namespace 基岩科技 {
     
     // 机器人状态管理
     let robotBusy = false
